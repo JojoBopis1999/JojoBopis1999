@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JojoBopis1999
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning everything that's re;ated to Web Development
+- 🌱 I’m currently learning everything that's related to Web Development
 - 💞️ I’m looking to collaborate someday to many aspiring students like me
 
 <!---
